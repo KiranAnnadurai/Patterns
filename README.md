@@ -1,5 +1,6 @@
 # Patterns
 
+
 I. Write a program to print INEURON using pattern programming logic.
 
 II. Write a program to print the following
